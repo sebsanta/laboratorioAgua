@@ -4,15 +4,15 @@ import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore"
 
 const firebaseConfig = {
-  // apiKey: "AIzaSyBq6MhPS8prG7WLn58PwpDCy-DFfyoIhlA",
+  // apiKey: "-DFfyoIhlA",
   // authDomain: "lab-quemic.firebaseapp.com",
   // projectId: "lab-quemic",
   // storageBucket: "lab-quemic.appspot.com",
-  // messagingSenderId: "542354028004",
-  // appId: "1:542354028004:web:aec0d81c787300dcd943f1",
+  // messagingSenderId: "",
+  // appId: "1::web:",
   // measurementId: "G-J01W6LFTDL"
 
-  // apiKey: "AIzaSyAALUX7EuiO9bZx_OUEYAr_qyOiIlrmObU",
+  // apiKey: "",
   // authDomain: "inspecciones-de-obras-civiles.firebaseapp.com",
   // projectId: "inspecciones-de-obras-civiles",
   // storageBucket: "inspecciones-de-obras-civiles.appspot.com",
@@ -20,11 +20,11 @@ const firebaseConfig = {
   // appId: "1:379801489658:web:c68babbd8f0286c57e7943",
   // measurementId: "G-6P10EMF22B"
 
-  apiKey: "AIzaSyBQFKwx3i4HJpbQrQRVoKzowREYP7TXKcE",
+  apiKey: "",
   authDomain: "labquemic.firebaseapp.com",
   projectId: "labquemic",
   storageBucket: "labquemic.appspot.com",
-  messagingSenderId: "147846775104",
+  messagingSenderId: "",
   appId: "1:147846775104:web:4918ebb4ed252654467aa5"
 };
 
